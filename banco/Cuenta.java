@@ -1,6 +1,6 @@
 package banco;
 public class Cuenta {
-    private static int contadorCuentas = 1; // para IDs automáticos
+    private static int contadorCuentas = 1; 
     private int id;
     private String titular;
     private double saldo;
